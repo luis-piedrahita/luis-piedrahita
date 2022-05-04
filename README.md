@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luis-piedrahita
+- 👋 Hi, I’m @luispied
 - 👀 I’m interested in every frontend piece of tech
 - 🌱 I’m currently learning everything that my brain can absorb
 - 💞️ I’m looking to collaborate on fun projects
